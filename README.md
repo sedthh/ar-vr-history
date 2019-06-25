@@ -1,8 +1,8 @@
 1. [Timeline](#timeline)
    1. [Stereoscopy (1780s - 1950s)](#stereoscopy)
-   2. [First Headsets (1950s - 1970s)](#first-headsets)
-   3. [Birth of Virtual Reality (1970s - 1990s)](#birth-of-virtual-reality)
-   4. [The Renaissance (1990s - )](#the-renaissance)
+   2. [Early Headsets (1950s - 1980s)](#early-headsets)
+   3. [Birth of Virtual Reality (1980s - 1990s)](#birth-of-virtual-reality)
+   4. [The Renaissance (2000s - )](#the-renaissance)
 2. [Notes](#notes)
    1. [Special Thanks](#special-thanks)
    2. [Contribution](#contribution)
@@ -64,7 +64,7 @@ Ars
 <p><b>1950</b></p>
 </blockquote>
 
-## First Headsets
+## Early Headsets
 <blockquote>
 <div align="left">
   <details>
@@ -164,20 +164,30 @@ Zenka
 </div>
 <div align="right">
   <details> 
+    <summary><b>1982 - The Judas Mandala</b></summary>
+...
+  </details>
+</div>
+<div align="right">
+  <details> 
     <summary><b>1982 - Tron</b></summary>
 ...
+  </details>
+</div>
+</blockquote>
+
+## Birth of Virtual Reality
+<blockquote>
+<div align="left">
+  <details>
+    <summary><b>1984 - VPL Research</b></summary>
+Ars
   </details>
 </div>
 <div align="right">
   <details>
     <summary><b>1984/07/01 - Neuromancer</b></summary>
 ...
-  </details>
-</div>
-<div align="left">
-  <details>
-    <summary><b>1984 - VPL Research</b></summary>
-Ars
   </details>
 </div>
 <div align="left">
@@ -192,11 +202,139 @@ Zenka
 Zenka, Ars (1986, 1990) ?
   </details>
 </div>
-   
-</blockquote>
-
-## Birth of Virtual Reality
+<div align="left">
+  <details>
+    <summary><b>1986 - Jaron Lanier (VPL Research) establishes the term “Virtual Reality”</b></summary>
+Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1987 - "Virtual Reality" is first mentioned in the Oxford English Dictionary</b></summary>
+Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1989/03 - LEEP Cyberface</b></summary>
+Zenka
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1989 - Nintendo Power Glove</b></summary>
 ...
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1990 - NASA's VIEW</b></summary>
+Zenka, Ars (1986, 1990) ?
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1990 - Thomas P. Caudell develops the term “augmented reality”</b></summary>
+Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1991/01 - Virtual Research Flight Helmet</b></summary>
+Zenka
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1991/10 - Virtuality (Virtual Group)</b></summary>
+Zenka, Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1991 - CAVE</b></summary>
+Ars (1995)?
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1991/12 - FlightHelmet</b></summary>
+Ars (1995)?
+  </details>
+</div>
+<div align="right">
+  <details>
+    <summary><b>1992 - The Lawnmover Man</b></summary>
+...
+  </details>
+</div>
+<div align="right">
+  <details>
+    <summary><b>1992 - Snow Cash</b></summary>
+Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1993/03 - Tier-1 by VFrontier</b></summary>
+Zenka
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1993/07 - Sega VR</b></summary>
+...
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1994/11 - Atari Jaguar</b></summary>
+Zenka (Needed?)
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1994/12 - VR4 by Virtual Research</b></summary>
+Zenka
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1995/07 - Nintendo's Virtual Boy</b></summary>
+...
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1995/07 - Cybermaxx by Victormaxx</b></summary>
+Zenka
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1995/10 - iGlassed by Virtual I/O</b></summary>
+Zenka
+  </details>
+</div>
+<div align="right">
+  <details>
+    <summary><b>1995/10 - Strange Days</b></summary>
+Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1995/12 - Forte VX1</b></summary>
+Zenka, Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1995/12 - FOHMD (Fiber Optics) HMD for Tornado</b></summary>
+Zenka
+  </details>
+</div>
+</blockquote>
 
 ## The Renaissance
 ...
