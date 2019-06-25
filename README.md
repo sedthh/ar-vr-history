@@ -1,8 +1,8 @@
 1. [Timeline](#timeline)
-   1. [Stereoscopy](#stereoscopy)
-   2. [First Headsets](#first-headsets)
-   3. [Birth of Virtual Reality](#birth-of-virtual-reality)
-   4. [The Renaissance](#the-renaissance)
+   1. [Stereoscopy (1780s - 1950s)](#stereoscopy)
+   2. [First Headsets (1950s - 1970s)](#first-headsets)
+   3. [Birth of Virtual Reality (1970s - 1990s)](#birth-of-virtual-reality)
+   4. [The Renaissance (1990s - )](#the-renaissance)
 2. [Notes](#notes)
    1. [Special Thanks](#special-thanks)
    2. [Contribution](#contribution)
@@ -19,6 +19,7 @@
   </details>
   </div>
 </blockquote>
+<h3>1800</h3><blockquote>&nbsp;</blockquote>
 <p>1838</p>
 <blockquote>
   <div align="left">
@@ -28,7 +29,7 @@
   </details>
   </div>
 </blockquote>
-<p>1850</p>
+<p><b>1850</b></p>
 <blockquote>
   <div align="left">
   <details>
@@ -46,6 +47,7 @@
   </details>
   </div>
 </blockquote>
+<h3>1900</h3><blockquote>&nbsp;</blockquote>
 <p>1908</p>
 <blockquote>
   <div align="left">
@@ -73,9 +75,30 @@
   </details>
   </div>
 </blockquote>
+<p>1939</p>
+<blockquote>
+  <div align="lefet">
+  <details>
+    <summary><b>The View-Master</b></summary>
+...
+  </details>
+  </div>
+</blockquote>
 
 ## First Headsets
 ...
 
+## Birth of Virtual Reality
+...
+
+## The Renaissance
+...
+
+
+
 # Notes
-Special thanks to 
+## Special Thanks
+Special Thanks for the info to ...
+
+## Contribution
+How to contribute to this repository
