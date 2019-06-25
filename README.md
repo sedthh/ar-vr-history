@@ -9,80 +9,59 @@
 
 # Timeline
 ## Stereoscopy
-
-<p>1787</p>
 <blockquote>
-  <div align="left">
+<div align="left">
   <details>
-    <summary><b>The Panorama</b></summary>
+    <summary><b>1787 - The Panorama</b></summary>
 ...
   </details>
-  </div>
-</blockquote>
-<h3>1800</h3><blockquote>&nbsp;</blockquote>
-<p>1838</p>
-<blockquote>
-  <div align="left">
+</div>
+<h3>1800</h3>
+<div align="left">
   <details>
-    <summary><b>Stereoscope</b></summary>
+    <summary><b>1838 - Stereoscope</b></summary>
 ...
   </details>
-  </div>
-</blockquote>
+</div>
 <p><b>1850</b></p>
-<blockquote>
   <div align="left">
   <details>
-    <summary><b>Stereo Daguerreotype</b></summary>
+    <summary><b>1850 - Stereo Daguerreotype</b></summary>
 ...
   </details>
-  </div>
-</blockquote>
-<p>1890</p>
-<blockquote>
-  <div align="left">
+</div>
+<div align="left">
   <details>
-    <summary><b>Stereo Microscope</b></summary>
+    <summary><b>1890 - Stereo Microscope</b></summary>
 ...
   </details>
-  </div>
-</blockquote>
-<h3>1900</h3><blockquote>&nbsp;</blockquote>
-<p>1908</p>
-<blockquote>
-  <div align="left">
+</div>
+<h3>1900</h3>
+<div align="left">
   <details>
-    <summary><b>Lenticular Printing</b></summary>
+    <summary><b>1908 - Lenticular Printing</b></summary>
 ...
   </details>
-  </div>
-</blockquote>
-<p>1930</p>
-<blockquote>
-  <div align="left">
+</div>
+<div align="left">
   <details>
-    <summary><b>The Link Trainer</b></summary>
+    <summary><b>1930 - The Link Trainer</b></summary>
 ...
   </details>
-  </div>
-</blockquote>
-<p>1935</p>
-<blockquote>
-  <div align="right">
+</div>
+<div align="right">
   <details>
-    <summary><b>Pygmalion's Spectacles</b></summary>
+    <summary><b>1935 - Pygmalion's Spectacles</b></summary>
 ...
   </details>
-  </div>
-</blockquote>
-<p>1939</p>
-<blockquote>
-  <div align="lefet">
+</div>
+<div align="lefet">
   <details>
-    <summary><b>The View-Master</b></summary>
+    <summary><b>1939 - The View-Master</b></summary>
 ...
   </details>
-  </div>
+</div>
+<p><b>1950</b></p>
 </blockquote>
 
 ## First Headsets
