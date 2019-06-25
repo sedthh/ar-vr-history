@@ -61,17 +61,11 @@ Ars
 ...
   </details>
 </div>
-<p><b>1950</b></p>
 </blockquote>
 
 ## Early Headsets
 <blockquote>
-<div align="left">
-  <details>
-    <summary><b>1952/11 - Shchel-3UM</b></summary>
-Zenka
-  </details>
-</div>
+<p><b>1950</b></p>
 <div align="left">
   <details>
     <summary><b>1957 - Sensorama</b></summary>
@@ -332,6 +326,96 @@ Zenka, Ars
   <details>
     <summary><b>1995/12 - FOHMD (Fiber Optics) HMD for Tornado</b></summary>
 Zenka
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1997/12 - HMD Glasstron by Sony</b></summary>
+Zenka
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1999/01 - EyeTap</b></summary>
+...
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1999/01 - Tom Auer Doctoral Project</b></summary>
+Zenka
+  </details>
+</div>
+<div align="right">
+  <details>
+    <summary><b>1999/03/31 - The Matrix</b></summary>
+...
+  </details>
+</div>
+<div align="right">
+  <details>
+    <summary><b>1999 - eXistenZ</b></summary>
+Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>1999 - AR Toolkit (Initial release)</b></summary>
+Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>2000 - AR Quake</b></summary>
+Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>2001/04 - Full Immersion HMD VIM 6-panel by Kaiser Electro-Optics Inc.</b></summary>
+Zenka
+  </details>
+</div>
+<div align="right">
+  <details>
+    <summary><b>2002 - Minority Report</b></summary>
+...
+  </details>
+</div>
+<div align="right">
+  <details>
+    <summary><b>2003/05/15 - The Matrix Reloaded</b></summary>
+...
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>2003/06/23 - Second Life</b></summary>
+Ars
+  </details>
+</div>
+<div align="right">
+  <details>
+    <summary><b>2003/11/05 - The Matrix Revolutions</b></summary>
+...
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>2005/12 - Cybermind VISETTE45SXGA</b></summary>
+Zenka
+  </details>
+</div>
+<div align="right">
+  <details>
+    <summary><b>2006 - Rainbows End</b></summary>
+Ars
+  </details>
+</div>
+<div align="left">
+  <details>
+    <summary><b>2008 - Smartphones and Augmented Reality</b></summary>
+Ars
   </details>
 </div>
 </blockquote>
