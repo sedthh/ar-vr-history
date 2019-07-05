@@ -1,6 +1,6 @@
-Technological advancements and scientific achievements are aligned to the left. Depictions of AR and VR in popular culture are aligned to the right.
+# Timeline of Augmented and Virtual Reality
 
-**Explanation for Emojis:**
+**Explanation of Emojis:**
 
 ❗ - important milestone (reading these entries only will give you a good general understanding of how AR and VR have advanced)
 
@@ -23,6 +23,8 @@ Technological advancements and scientific achievements are aligned to the left. 
    3. [Contribution](#contribution)
 
 # Timeline
+Technological advancements and scientific achievements are aligned to the left. Depictions of AR and VR in popular culture are aligned to the right.
+
 Click on the titles to expand them. 
 
 ## Stereoscopy
@@ -101,7 +103,7 @@ Ars
 Zenka
 </details>
 
-<details align="right"><summary><b>1973/04 - First handheld mobile phone</b></summary>
+<details align="left"><summary><b>1973/04 - First handheld mobile phone</b></summary>
 by Motorola
 MobileAR
 </details>
