@@ -1,9 +1,15 @@
 Technological advancements and scientific achievements are aligned to the left. Depictions of AR and VR in popular culture are aligned to the right.
 
-Explanation for Emojis:
+**Explanation for Emojis:**
+
 ❗ - important milestone (reading these entries only will give you a good general understanding of how AR and VR have advanced)
+
 📝 - publication, scientific paper on the subject (in case you want to cite sources on AR/VR)
+
 🎮 - video game hardware or software (if you are just interested in AR/VR in video games)
+
+📱 - mobile hardware or software (advancements in AR/VR on smart phones)
+
 
 1. [Timeline](#timeline)
    1. [Stereoscopy (1780s - 1950s)](#stereoscopy)
@@ -17,6 +23,8 @@ Explanation for Emojis:
    3. [Contribution](#contribution)
 
 # Timeline
+Click on the titles to expand them. 
+
 ## Stereoscopy
 <blockquote>
 
@@ -191,7 +199,7 @@ Ars (1995)?
 Ars (1995)?
 </details>
 
-<details align="left"><summary><b>1992 - First Smart Phone</b></summary>
+<details align="left"><summary><b>1992 - First Smart Phone 📱</b></summary>
 Introduced at COMDEX 1992, IBM's Simon Personal Communicator
 MobileAR
 </details>
@@ -279,13 +287,42 @@ Jun Rekimoto
 MobileAR
 </details>
 
-<details align="left"><summary><b>1997 - first survey on Augmented Reality</b></summary>
+<details align="left"><summary><b>1997 - First survey on Augmented Reality 📝</b></summary>
 Ronald Azuma
+MobileAR
+</details>
+
+<details align="left"><summary><b>1997 - Mobile Augmented Reality System (MARS) 📱</b></summary>
+Steve Feiner
+MobileAR
+</details>
+
+<details align="left"><summary><b>1997 - Thad Starner on the possible applications of mobile AR 📝📱</b></summary>
+MobileAR
+</details>
+
+<details align="left"><summary><b>1997 - Camera Phone invented  ❗📱</b></summary>
+Philippe Kahn
 MobileAR
 </details>
 
 <details align="left"><summary><b>1997/12 - HMD Glasstron by Sony</b></summary>
 Zenka
+</details>
+
+<details align="left"><summary><b>1998 - Map-in-the-hat (Tinmith)</b></summary>
+Bruce Thomas
+MobileAR
+</details>
+
+<details align="left"><summary><b>1999 - First GSM phone with built-in GPS receiver 📱</b></summary>
+Benefon Esc! NT2002
+MobileAR
+</details>
+
+<details align="left"><summary><b>1999 - Wireless 802.11a/802.11b protocols defined ❗</b></summary>
+WiFi
+MobileAR
 </details>
 
 <details align="left"><summary><b>1999/01 - EyeTap</b></summary>
@@ -312,16 +349,50 @@ Ars
 Ars
 </details>
 
+<details align="left"><summary><b>2000 - Battlefield Augmented Reality System (BARS)</b></summary>
+Simon Julier
+MobileAR
+</details>
+
+<details align="left"><summary><b>2000 - Sharp's commercial Camera Phone 📱</b></summary>
+MobileAR
+</details>
+
+<details align="left"><summary><b>2001 - Archeoguide for cultural heritages</b></summary>
+Vlahakis
+MobileAR
+</details>
+
 <details align="left"><summary><b>2001/04 - Full Immersion HMD VIM 6-panel by Kaiser Electro-Optics Inc.</b></summary>
 Zenka
+</details>
+
+<details align="left"><summary><b>2001 - RWWW AR Browser</b></summary>
+Kooper and MacIntyre
+MobileAR
 </details>
 
 <details align="right"><summary><b>2002 - Minority Report ❗</b></summary>
 ...
 </details>
 
+<details align="left"><summary><b>2003 - Human Pacman 🎮</b></summary>
+Adrian David Cheok
+MobileAR
+</details>
+
+<details align="left"><summary><b>2003 - iLamps projector-camera system</b></summary>
+Ramesh Raskar
+MobileAR
+</details>
+
 <details align="right"><summary><b>2003/05/15 - The Matrix Reloaded</b></summary>
 ...
+</details>
+
+<details align="left"><summary><b>2003 - Mozzies, Siemens SX1 AR Camera Game 🎮📱</b></summary>
+Mosquito Hunt
+MobileAR
 </details>
 
 <details align="left"><summary><b>2003/06/23 - Second Life ❗</b></summary>
@@ -331,17 +402,54 @@ Ars
 <details align="right"><summary><b>2003/11/05 - The Matrix Revolutions</b></summary>
 ...
 </details>
+
+<details align="left"><summary><b>2004 - Mobile 3D marker tracking 📱</b></summary>
+Mathias Möhring
+MobileAR
+</details>
+
+<details align="left"><summary><b>2004 - The Invisible Train 🎮</b></summary>
+SIGGRAPH 2004
+MobileAR
+</details>
+
+<details align="left"><summary><b>2005 - ARToolkit for Symbian 📱</b></summary>
+Anders Henrysson ports it
+MobileAR
+</details>
+
+<details align="left"><summary><b>2005 - Mobile Phones with 3-Axis Accelerometers 📱</b></summary>
+Sharp V603SH and Samsung SCH-S310
+MobileAR
+</details>
    
 <details align="left"><summary><b>2005/12 - Cybermind VISETTE45SXGA</b></summary>
 Zenka
+</details>
+
+<details align="left"><summary><b>2006 - Nokia's Multi-Sensor Mobile AR (MARA) Prototype 📱</b></summary>
+AR guidance tool
+MobileAR
 </details>
 
 <details align="right"><summary><b>2006 - Rainbows End</b></summary>
 Ars
 </details>
 
-<details align="left"><summary><b>2008 - Smartphones and Augmented Reality ❗</b></summary>
-Ars
+<details align="left"><summary><b>2007 - iPhne, the first multi-touch screen mobile 📱</b></summary>
+MobileAR
+</details>
+
+<details align="left"><summary><b>2008 - First 6DOF implementation of natural feature tracking in real-time on mobile phones 📝📱</b></summary>
+Wagner
+</details>
+
+<details align="left"><summary><b>2008 - Wikitude 📱</b></summary>
+MobileAR
+</details>
+
+<details align="left"><summary><b>2008 - Smartphones and Augmented Reality ❗📱</b></summary>
+Ars (nneded?)
 </details>
 
 </blockquote>
