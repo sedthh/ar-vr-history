@@ -11,16 +11,16 @@
 📱 - mobile hardware or software (advancements in AR/VR on smart phones)
 
 
-1. [Timeline](#timeline)
-   1. [Stereoscopy (1780s - 1950s)](#stereoscopy)
-   2. [Early Headsets (1950s - 1980s)](#early-headsets)
-   3. [Birth of Virtual Reality (1980s - 1990s)](#birth-of-virtual-reality)
-   4. [The Renaissance (2000s - )](#the-renaissance)
+[Timeline](#timeline)
+1. [Stereoscopy (1780s - 1950s)](#stereoscopy)
+2. [Early Headsets (1950s - 1980s)](#early-headsets)
+3. [Birth of Virtual Reality (1980s - 1990s)](#birth-of-virtual-reality)
+4. [The Renaissance (2000s - )](#the-renaissance)
    
-2. [Notes](#notes)
-   1. [Dates](#dates)
-   2. [Special Thanks](#special-thanks)
-   3. [Contribution](#contribution)
+[Notes](#notes)
+1. [Dates](#dates)
+2. [Special Thanks](#special-thanks)
+3. [Contribution](#contribution)
 
 # Timeline
 Technological advancements and scientific achievements are aligned to the left. Depictions of AR and VR in popular culture are aligned to the right.
@@ -41,12 +41,26 @@ Ars
 ...
 </details>
 
+<details><summary><b>1853/08 - First known Anaglyph (Farbenstereoscope)</b></summary>
+W. Rollmann in Stargard
+...
+</details>
+
 <details><summary><b>1890 - Stereo Microscope</b></summary>
 ...
 </details>
 <h3>1900</h3>
 <details><summary><b>1908 - Lenticular Printing</b></summary>
 Ars
+</details>
+
+<details><summary><b>1915 - First Anaglyph Film</b></summary>
+Edwin S Porter.
+...
+</details>
+
+<details><summary><b>1922/12/27 - Teleview Active Shutter System</b></summary>
+...
 </details>
 
 <details><summary><b>1930 - The Link Trainer</b></summary>
@@ -60,11 +74,23 @@ Ars
 <details><summary><b>1939 - The View-Master ❗</b></summary>
 ...
 </details>
-   
+<p><b>1950</b></p>
+<details><summary><b>1951 - Cinerame</b></summary>
+Widescreen
+...
+</details>
+
+<details align="right"><summary><b>1952 - Bwana Devil ❗</b></summary>
+First 3D film craze 
+...
+</details>
+
+<details><summary><b>1952 - Polarized 3D films</b></summary>
+...
+</details>
    
 ## Early Headsets
 
-<p><b>1950</b></p>
 <details><summary><b>1957 - Sensorama ❗</b></summary>
 ...
 </details>
@@ -130,6 +156,10 @@ Zenka
 Zenka
 </details>
 
+<details><summary><b>1982 - SubRoc-3D 🎮</b></summary>
+...
+</details>
+
 <details align="right"><summary><b>1982 - The Judas Mandala</b></summary>
 ...
 </details>
@@ -137,7 +167,7 @@ Zenka
 <details align="right"><summary><b>1982 - Tron</b></summary>
 ...
 </details>
-   
+ 
 
 ## Birth of Virtual Reality
    
@@ -163,6 +193,14 @@ Ars
 
 <details><summary><b>1987 - "Virtual Reality" is first mentioned in the Oxford English Dictionary</b></summary>
 Ars
+</details>
+
+<details><summary><b>1987/10/21 - Famicom 3D System 🎮</b></summary>
+...
+</details>
+
+<details><summary><b>1987/10 - SegaScope 3-D Glasses 🎮</b></summary>
+...
 </details>
 
 <details><summary><b>1989/03 - LEEP Cyberface</b></summary>
@@ -236,6 +274,10 @@ MobileAR
 <details><summary><b>1994 - Taxanomy of Mixed Reality Visual Displays ❗📝</b></summary>
 Paul Milgram and Fumio Kishino write their seminal paper
 MobileAR
+</details>
+
+<details><summary><b>1994/09 - Aura Interactor 🎮</b></summary>
+...
 </details>
 
 <details><summary><b>1994/11 - Atari Jaguar 🎮</b></summary>
@@ -446,13 +488,142 @@ Wagner
 MobileAR
 </details>
 
-<details><summary><b>2008 - Smartphones and Augmented Reality ❗📱</b></summary>
+<details><summary><b>2008 - Rise of Smartphones and Augmented Reality ❗📱</b></summary>
 Ars (nneded?)
 </details>
 
 
 ## The Renaissance
-...
+<details><summary><b>2009 - Oculus Rift Crescent Bay Prototype</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2009 - MapLens</b></summary>
+Morrison
+MobileAR
+</details>
+
+<details><summary><b>2009 - Fiducial based Mobile tracking 📝📱</b></summary>
+Hagbi
+MobileAR
+</details>
+
+<details><summary><b>2009 - SiteLens 📱</b></summary>
+Sean White
+MobileAR
+</details>
+
+<details><summary><b>2009 - Layar ❗📱</b></summary>
+SPRXmobile
+MobileAR
+</details>
+
+<details><summary><b>2009/07 - Predecessor to Canon MREAL System for Mixed Reality</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2010 - Vuzix Wrap AR 920</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2010/08 - Palmer Tech's PR1</b></summary>
+Palmer Lucky's early VR prototypes
+Zenka
+</details>
+
+<details><summary><b>2010/09 - xSight HMD by Senetics</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2012/01 - Sensics SmartGoggles by Natalia Immersive</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2012/02 - Canon MReal Mixed Reality Headset</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2012/04 - Google Glass ❗</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2012/06 - Oculus Rift Prototype ❗</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2013/01 - Vuzix M100📱</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2013/08 - Oculus Rift Dev Kit 1 ❗</b></summary>
+Zenka (date?)
+</details>
+
+<details><summary><b>2013/09 - Samsung Gear VR ❗📱</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2013/12 - Vuzix M2000AR HMD</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2013/12 - Meta Pro Prototype v2.0</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/01 - CAST AR</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/01 - ORA-X Headphones by Optinvent</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/01 - Oculus Rift Crystal Cove Prototype</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/01 - CyberEye 100</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/01 - Moverio BT-200 Smart Glasses</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/01 - Laster SeeThru</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/01 - Valve VR ❗</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/03 - Oculus Dev Kit 2 ❗</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/03 - Project Morpheus ❗🎮</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/04 - MergeVR 📱</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/05 - Epson Moverio BT-200</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/06 - GameFace Labs Mark 5 Prototype</b></summary>
+Zenka
+</details>
+
+<details><summary><b>2014/06 - Google Cardboard ❗📱</b></summary>
+Zenka
+</details>
+
+(...)
 
 # Notes
 ## Dates
